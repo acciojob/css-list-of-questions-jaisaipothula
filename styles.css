@@ -1,26 +1,23 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f8f8; /* Light grey background for the whole page */
+    background-color: #f8f8f8; 
     margin: 0;
     padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Full viewport height */
+    height: 100vh; 
 }
-
-/* Styling for the blockquote elements */
 .questions {
-    background-color: #f8fffe; /* Background color for the blockquote */
-    height: 50px; /* Height of the blockquote */
-    margin-top: 20px; /* Space above each blockquote */
-    padding: 15px; /* Padding inside the blockquote */
-    max-width: 600px; /* Maximum width of the blockquote */
-    border-left: 8px solid green; /* Green border on the left */
-    box-sizing: border-box; /* Ensure padding and border are included in the total width and height */
+    background-color: #f8fffe; 
+    height: 50px; 
+    margin-top: 20px; 
+    padding: 15px; 
+    max-width: 600px; 
+    border-left: 8px solid green; 
+    box-sizing: border-box; 
 }
 
-/* Styling for the paragraph elements inside blockquotes */
 .questions p {
-    margin: 0; /* Remove default margin from paragraphs */
+    margin: 0; 
 }
